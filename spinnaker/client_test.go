@@ -15,8 +15,8 @@ import (
 	. "github.com/onsi/ginkgo"
 	. "github.com/onsi/gomega"
 	"github.com/onsi/gomega/ghttp"
-	"github.com/pivotal-cf/spinnaker-resource/concourse"
-	"github.com/pivotal-cf/spinnaker-resource/spinnaker"
+	"github.com/hellofresh/spinnaker-resource/concourse"
+	"github.com/hellofresh/spinnaker-resource/spinnaker"
 )
 
 const serverCert = `-----BEGIN CERTIFICATE-----
